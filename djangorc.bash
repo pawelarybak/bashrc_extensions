@@ -34,5 +34,3 @@ dj() {
         cd - > /dev/null
     fi
 }
-
-#source ./django_autocomplete
